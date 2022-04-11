@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ComputerConnor
-- 👀 I’m interested in coding.
+- 👀 I’m interested in sleeping.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me cj9366455@gmail.com
 
 <!---
