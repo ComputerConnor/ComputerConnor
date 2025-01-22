@@ -3,7 +3,7 @@
 ```yaml
 name: Connor Jordan
 located_in: Cookeville, Tennessee
-education: Aiming for Bachelors at Tennessee Tech
+education: Aiming for Bachelors at Tennessee Tech Universityco
 major: Computer Science
 concentration: Cybersecurity
 
